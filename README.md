@@ -1,5 +1,5 @@
 # Advent Of Code 🎄
-My solution to advent of code tasks using JavaScript.
+My solution to advent of code tasks using JavaScript. 2020
 
 # Example how to run
 `node ./2020/01/part1.js`
